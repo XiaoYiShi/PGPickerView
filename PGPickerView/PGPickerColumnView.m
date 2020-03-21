@@ -7,8 +7,7 @@
 //
 
 #import "PGPickerColumnView.h"
-#import "PGPickerColumnCell.h"
-#import "PGPickerTableView.h"
+#import "PickerViewDemo-Swift.h"
 
 @interface PGPickerColumnView()<UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic) CGFloat rowHeight;
